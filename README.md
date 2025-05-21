@@ -1,5 +1,5 @@
 # Supplementary materials for "A Generalist Agent Learning Architecture for Versatile Quadruped Locomotion"
-## Project page: https://github.com/vsislab/GALA
+## Project page: https://vsislab.github.io/gala/
 ### Author: Yanyun Chen, Ran Song, Jiapeng Sheng, Xing Fang, Wenhao Tan, Wei Zhang and Yibin Li
 
 
